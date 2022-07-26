@@ -99,4 +99,3 @@ for label in list:
         result1 = 'Tumours'
 
     print(f"{label} is {result1} and the probabilty for both the No_tumour and Tumor is: {result}")
-
